@@ -128,10 +128,12 @@
     "ng-view":        { "attributes": [] },
 
 	"md-autocomplete":     		{ "attributes": ["md-search-text", "md-selected-item", "md-items", "md-item-text", "placeholder"] },
+	"md-bottom-sheet":     		{ "attributes": ["aria-label", "class"] },
 	"md-button":     			{ "attributes": ["md-no-ink", "ng-disabled", "md-ripple-size", "aria-label", "class", "href"] },
 	"md-card":     				{ "attributes": [] },
 	"md-checkbox":     			{ "attributes": ["ng-model", "name", "ng-true-value", "ng-false-value", "ng-change", "md-no-ink", "aria-label"] },
 	"md-content":     			{ "attributes": ["class", "md-theme"] },
+	"md-dialog":     			{ "attributes": ["aria-label", "class"] },
 	"md-divider":     			{ "attributes": ["md-inset"] },
 	"md-grid-list":     		{ "attributes": ["md-cols", "md-row-height", "md-gutter", "md-on-layout"] },
 	"md-grid-tile":     		{ "attributes": ["md-colspan", "md-rowspan"] },
