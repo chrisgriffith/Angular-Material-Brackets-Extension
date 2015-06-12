@@ -360,5 +360,27 @@
 	"md-stretch-tabs":			{ "attribOption": [] },
 	"md-svg-icon":				{ "attribOption": [] },
 	"md-svg-src":				{ "attribOption": [] },
-	"md-visible":				{ "attribOption": [] }
+	"md-visible":				{ "attribOption": [] },
+  
+    "layout":                   { "attribOption": ["row", "column"] },
+    "layout-sm":                { "attribOption": ["row", "column"] },
+    "layout-gt-sm":             { "attribOption": ["row", "column"] },
+    "layout-md":                { "attribOption": ["row", "column"] },
+    "layout-gt-md":             { "attribOption": ["row", "column"] },
+    "layout-lg":                { "attribOption": ["row", "column"] },
+    "layout-gt-lg":             { "attribOption": ["row", "column"] },
+    "flex":				        { "attribOption": [] },
+    "flex-sm":				    { "attribOption": [] },
+    "flex-gt-sm":				{ "attribOption": [] },
+    "flex-md":				    { "attribOption": [] },
+    "flex-gt-md":				{ "attribOption": [] },
+    "flex-lg":				    { "attribOption": [] },
+    "flex-gt-lg":				{ "attribOption": [] },
+    "layout-align":				{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-sm":			{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-gt-sm":		{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-md":			{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-gt-md":		{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-lg":			{ "attribOption": ["start", "center", "end", "space-around", "space-between"] },
+    "layout-align-gt-lg":		{ "attribOption": ["start", "center", "end", "space-around", "space-between"] }
 }
