@@ -1,10 +1,10 @@
 # Angular-Material-Brackets-Extension
 A Brackets code hinting extension for the Angular Material project. The Angular Material project is an implementation of Material Design in Angular.js. This project provides a set of reusable, well-tested, and accessible UI components based on the Material Design system. [ https://material.angularjs.org](https://material.angularjs.org/latest/#/)
 
-##Notice
+## Notice
 There's a known issue with Brackets that keeps multiple code hinters from being run at the same time. Therefore, for this extension to work, make sure you have no other code hinters installed. 
 
-##Install
+## Install
 
 1. Install Brackets 1.0 or later.
 2. In Brackets, click the menu item File > Extension Manager...
